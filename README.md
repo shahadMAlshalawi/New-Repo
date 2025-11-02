@@ -3,15 +3,6 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shahadMAlshalawi/Modular-Arabic-VQA/blob/main/notebooks/OKVQA_ar_gemini_experiments_Final.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shahadMAlshalawi/Modular-Arabic-VQA/blob/main/notebooks/VQAv2_ar_gemini_experiments_Final.ipynb)
 
-<p align="center">
-  <img src="assets/images/System_Structure.jpg" alt="VQA Architecture" width="400"><br>
-    <em>Figure 1. Modular Arabic VQA System with Frozen Pretrained models.</em>
-</p>
-
-<p align="center">
-  <img src="assets/images/prompt.jpg" alt="Prompt Template" width="800"><br>
-    <em>Figure 2. Prompt template employed to generate answers using Gemini-1.5-Flash.</em>
-</p>
 
 <p align="center">
   <img src="assets/images/Examples_OKVQA-ar.jpg" alt="VQA Examples" width="800"><br>
